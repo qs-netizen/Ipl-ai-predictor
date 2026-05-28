@@ -1,0 +1,49 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,bowler,total_runs,player_dismissed
+1,1,Mumbai Indians,Chennai Super Kings,1,1,Rohit Sharma,Deepak Chahar,0,
+1,1,Mumbai Indians,Chennai Super Kings,1,2,Rohit Sharma,Deepak Chahar,4,
+1,1,Mumbai Indians,Chennai Super Kings,1,3,Rohit Sharma,Deepak Chahar,1,
+1,1,Mumbai Indians,Chennai Super Kings,1,4,Quinton de Kock,Deepak Chahar,2,
+1,1,Mumbai Indians,Chennai Super Kings,1,5,Quinton de Kock,Deepak Chahar,0,Quinton de Kock
+1,1,Mumbai Indians,Chennai Super Kings,1,6,Suryakumar Yadav,Deepak Chahar,1,
+
+1,1,Mumbai Indians,Chennai Super Kings,2,1,Rohit Sharma,Sam Curran,6,
+1,1,Mumbai Indians,Chennai Super Kings,2,2,Rohit Sharma,Sam Curran,1,
+1,1,Mumbai Indians,Chennai Super Kings,2,3,Suryakumar Yadav,Sam Curran,4,
+1,1,Mumbai Indians,Chennai Super Kings,2,4,Suryakumar Yadav,Sam Curran,0,
+1,1,Mumbai Indians,Chennai Super Kings,2,5,Suryakumar Yadav,Sam Curran,2,
+1,1,Mumbai Indians,Chennai Super Kings,2,6,Suryakumar Yadav,Sam Curran,1,
+
+1,2,Chennai Super Kings,Mumbai Indians,1,1,Faf du Plessis,Trent Boult,1,
+1,2,Chennai Super Kings,Mumbai Indians,1,2,Shane Watson,Trent Boult,4,
+1,2,Chennai Super Kings,Mumbai Indians,1,3,Shane Watson,Trent Boult,0,
+1,2,Chennai Super Kings,Mumbai Indians,1,4,Shane Watson,Trent Boult,6,
+1,2,Chennai Super Kings,Mumbai Indians,1,5,Shane Watson,Trent Boult,2,
+1,2,Chennai Super Kings,Mumbai Indians,1,6,Shane Watson,Trent Boult,1,
+
+2,1,Delhi Capitals,Kings XI Punjab,1,1,Shikhar Dhawan,Mohammed Shami,0,
+2,1,Delhi Capitals,Kings XI Punjab,1,2,Shikhar Dhawan,Mohammed Shami,4,
+2,1,Delhi Capitals,Kings XI Punjab,1,3,Shikhar Dhawan,Mohammed Shami,1,
+2,1,Delhi Capitals,Kings XI Punjab,1,4,Prithvi Shaw,Mohammed Shami,2,
+2,1,Delhi Capitals,Kings XI Punjab,1,5,Prithvi Shaw,Mohammed Shami,6,
+2,1,Delhi Capitals,Kings XI Punjab,1,6,Prithvi Shaw,Mohammed Shami,0,Prithvi Shaw
+
+2,2,Kings XI Punjab,Delhi Capitals,1,1,KL Rahul,Kagiso Rabada,1,
+2,2,Kings XI Punjab,Delhi Capitals,1,2,Mayank Agarwal,Kagiso Rabada,4,
+2,2,Kings XI Punjab,Delhi Capitals,1,3,Mayank Agarwal,Kagiso Rabada,0,
+2,2,Kings XI Punjab,Delhi Capitals,1,4,Mayank Agarwal,Kagiso Rabada,2,
+2,2,Kings XI Punjab,Delhi Capitals,1,5,Mayank Agarwal,Kagiso Rabada,1,
+2,2,Kings XI Punjab,Delhi Capitals,1,6,KL Rahul,Kagiso Rabada,6,
+
+3,1,Royal Challengers Bengaluru,Sunrisers Hyderabad,1,1,Virat Kohli,Bhuvneshwar Kumar,1,
+3,1,Royal Challengers Bengaluru,Sunrisers Hyderabad,1,2,Aaron Finch,Bhuvneshwar Kumar,4,
+3,1,Royal Challengers Bengaluru,Sunrisers Hyderabad,1,3,Aaron Finch,Bhuvneshwar Kumar,0,
+3,1,Royal Challengers Bengaluru,Sunrisers Hyderabad,1,4,Aaron Finch,Bhuvneshwar Kumar,6,
+3,1,Royal Challengers Bengaluru,Sunrisers Hyderabad,1,5,Aaron Finch,Bhuvneshwar Kumar,1,
+3,1,Royal Challengers Bengaluru,Sunrisers Hyderabad,1,6,Virat Kohli,Bhuvneshwar Kumar,2,
+
+3,2,Sunrisers Hyderabad,Royal Challengers Bengaluru,1,1,David Warner,Yuzvendra Chahal,4,
+3,2,Sunrisers Hyderabad,Royal Challengers Bengaluru,1,2,David Warner,Yuzvendra Chahal,0,
+3,2,Sunrisers Hyderabad,Royal Challengers Bengaluru,1,3,David Warner,Yuzvendra Chahal,1,
+3,2,Sunrisers Hyderabad,Royal Challengers Bengaluru,1,4,Jonny Bairstow,Yuzvendra Chahal,6,
+3,2,Sunrisers Hyderabad,Royal Challengers Bengaluru,1,5,Jonny Bairstow,Yuzvendra Chahal,2,
+3,2,Sunrisers Hyderabad,Royal Challengers Bengaluru,1,6,Jonny Bairstow,Yuzvendra Chahal,1,
